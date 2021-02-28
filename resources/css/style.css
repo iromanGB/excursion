@@ -1,7 +1,9 @@
-#website-name {
-	font-family: verdana;
-	font-weight: normal;
-	font-size: 50px
-	color: blue;
-	align-content: center;
+
+#title {
+	font-family: Helvetica;
+	font-size: 75px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-color: black;
 }
