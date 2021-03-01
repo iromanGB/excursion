@@ -24,3 +24,33 @@ figure {
     display: flex;
     justify-content: center;
 }
+p {
+	font-family: Verdana;
+	font-size: 21px;
+	font-weight: bold;
+	color: Gray;
+	text-align: center;
+}
+#travel-guide {
+	font-family: Verdana;
+	font-size: 35px;
+	font-weight: 300;
+	color: White;
+	text-align: center;
+	
+}
+
+#iPhone {
+	font-family: Verdana;
+	font-size: 35px;
+	font-weight: 300;
+	color: White;
+	text-align: center;
+	
+}
+#copyright {
+	font-family: Verdana;
+	font-size: 15px;
+	color: Gray;
+	text-align: right;
+}
